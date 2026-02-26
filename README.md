@@ -31,3 +31,5 @@ Le **Random Forest** est le meilleur modèle dans les deux parties du projet !
 ## Technologies
 - Langage : **R**
 - Packages : ggplot2, caret, randomForest, e1071, FactoMineR
+## Code
+👉 [Voir le code complet](boston_ml.R)
